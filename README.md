@@ -1,2 +1,1 @@
-iduna.github.io
-===============
+yet, another GitHub powered site.
