@@ -1,1 +1,1 @@
-yet, another GitHub powered site.
+yet, another github powered site.
