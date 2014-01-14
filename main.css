@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	font-family: "Raleway";
+	font-family: "raleway";
 	font-weight: 400;
 	font-size: .875em;
 	line-height: 1.5;
@@ -64,21 +64,21 @@ a:hover {
 }
 
 .hero {
-	background: #69D2E7 url(hero.png) center center no-repeat;
+	background: #69d2e7 url(hero.png) center center no-repeat;
 	color: #fff;
 }
 
 .goal {
-	background: #F38630 url(goal.png) center top no-repeat;
+	background: #f38630 url(goal.png) center top no-repeat;
 	color: #fff;
 }
 
 .rationale {
-	background: #A7DBD8 url(rationale.png) center top no-repeat;
+	background: #a7dbd8 url(rationale.png) center top no-repeat;
 }
 
 .contact {
-	background: #E0E4CC url(contact.png) center top no-repeat;
+	background: #e0e4cc url(contact.png) center top no-repeat;
 }
 
 .hero p {
