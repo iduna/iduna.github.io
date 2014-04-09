@@ -64,21 +64,21 @@ a:hover {
 }
 
 .hero {
-	background: #69d2e7 url(hero.png) center center no-repeat;
+	background: #69d2e7 url(../images/hero.png) center center no-repeat;
 	color: #fff;
 }
 
 .goal {
-	background: #f38630 url(goal.png) center top no-repeat;
+	background: #f38630 url(../images/goal.png) center top no-repeat;
 	color: #fff;
 }
 
 .rationale {
-	background: #a7dbd8 url(rationale.png) center top no-repeat;
+	background: #a7dbd8 url(../images/rationale.png) center top no-repeat;
 }
 
 .contact {
-	background: #e0e4cc url(contact.png) center top no-repeat;
+	background: #e0e4cc url(../images/contact.png) center top no-repeat;
 }
 
 .hero p {
